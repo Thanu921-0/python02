@@ -1,0 +1,4 @@
+#hours into minutes
+h=int(input("enter hours"))
+minu=h*60
+print(minu)
